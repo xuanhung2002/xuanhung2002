@@ -1,5 +1,6 @@
-Hi 👋, I'm Xuan Hung
-<h3 align="center">I am a developer form Viet Nam</h3>
+
+<h3 align="center">Hi 👋, I'm Xuan Hung</h3>
+<h1>A developer from Viet Nam</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
