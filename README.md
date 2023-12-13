@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Da Nang university of Science and Technology**
 
-- 📫 How to reach me **nxhung2002@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/nxhung02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nxhung02" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqbQjFKQMNZGsMxGQdQMZfJnGdgzBlPbNXQHjZtpBZVhSDkFKtTdLHRdmhBxNHSFBcZjXB" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Finet.detik.com%2Fcyberlife%2Fd-5202838%2Fbukan-lagi-amplop-logo-gmail-kini-semakin-google&psig=AOvVaw2f45-E7KynnwPDMULTd9OH&ust=1702575050294000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCYwrz4jIMDFQAAAAAdAAAAABAX" alt="nxhung02" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
